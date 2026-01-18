@@ -4,6 +4,8 @@ A simplified, free-to-run demonstration of **Recursive Language Models (RLMs)**.
 
 This repository implements a lightweight version of the RLM concept: an LLM that can generate code, execute it in a local REPL, and observe the results to solve complex tasks.
 
+Cited, inspired and derived from: https://github.com/alexzhang13/rlm
+
 ## Features
 - **Free to Run**: Designed to work with [Ollama](https://ollama.com/) locally (no API keys required).
 - **Lightweight**: Minimal dependencies (`litellm`, `rich`).
